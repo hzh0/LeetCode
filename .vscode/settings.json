@@ -3,6 +3,10 @@
         "vector": "cpp",
         "xstring": "cpp",
         "xiosbase": "cpp",
-        "cstdlib": "cpp"
+        "cstdlib": "cpp",
+        "algorithm": "cpp",
+        "initializer_list": "cpp",
+        "xtree": "cpp",
+        "xutility": "cpp"
     }
 }
