@@ -1,12 +1,3 @@
-#include <iostream>
-#include <string>
-#include <vector>
-#include <algorithm>
-#include <cmath>
-#include <map>
-
-using namespace std;
-
 class Solution {
 public:
 
